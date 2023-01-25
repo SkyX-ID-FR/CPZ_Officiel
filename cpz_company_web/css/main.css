@@ -1,0 +1,20 @@
+/* 
+  _______ _______ _______     _______  ___  ___ __      __       __ 
+ |   _   |   _   |   _   |   |   _   .'  _.'  _|__.----|__.-----|  |
+ |.  1___|.  1   |___|   |   |.  |   |   _|   _|  |  __|  |  -__|  |
+ |.  |___|.  ____|/  ___/    |.  |   |__| |__| |__|____|__|_____|__|
+ |:  1   |:  |   |:  1  \    |:  1   | Version 1.0                       
+ |::.. . |::.|   |::.. . |   |::.. . | By XlaTor & SkyX-ID-FR                               
+ `-------`---'   `-------'   `-------'   
+*/
+
+/* 📌 Integrate Official Fonts to Website : 📌 */
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,900;1,900&display=swap');
+
+* {
+    padding: 0px;
+    margin: 0px;
+    font-weight: normal;
+    font-size: normal;
+    font-family: 'Raleway', sans-serif;
+}
