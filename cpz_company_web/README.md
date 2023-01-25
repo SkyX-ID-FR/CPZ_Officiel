@@ -1,4 +1,4 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+Ce fichier est auto-généré par l'utilitaire <code>NodeJS</code> que la framework <code>NextJS</code> utilise à la création du projet concerné. Ce README.md se tranforme alors en une tâche à faire et à noter (dans la Todo-List).
 
 ## Getting Started
 
