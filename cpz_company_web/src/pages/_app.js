@@ -11,5 +11,7 @@
 import '../../css/main.css';
 
 export default function App({ Component, pageProps }) {
+  console.clear();
+  console.log("C.P.Z Official© website is launched ! ✨");
   return <Component {...pageProps} />
 }
