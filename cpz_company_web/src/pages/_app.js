@@ -9,6 +9,7 @@
 */
 
 import '../../css/main.css';
+import '../../css/main_responsive.css';
 
 export default function App({ Component, pageProps }) {
   console.clear();

@@ -26,7 +26,7 @@ export default function Home() {
 
         <section id="content_box">
           <div className='ads'><p>-10% avec le code CALEÇON - Valable jusqu'au 15 Mars 2023</p></div>
-          <p>content_box</p>
+          {/* <p>content_box</p> */}
         </section>
       </div>
     </>
