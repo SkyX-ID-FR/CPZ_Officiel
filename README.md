@@ -3,7 +3,7 @@
 
 <p align="left">
   Ce repos Github illustre le projet complet de l'application web dynamique faites à l'occasion pour @CPZ_Officiel. <br/>
-  C.P.Z sont des initiales qui signifient <i>Caleçon à Poche Zippé</i> : tout est dit dans le nom finalement. Une façon simple, sûre et astucieuse pour vous permettre de ranger tout vos petits objets de valeurs au même endroit et proche de soi ! Ce projet est réalisé dans le cadre de l'option micro-entreprise au Lycée Chevreuil Lestonnac à St Didier au Mont d'Or. 😊 <br/><br/>
+  C.P.Z sont des initiales qui signifient <i>Caleçon à Poche Zippé</i> : tout est dit dans le nom finalement. Une façon simple, sûre et astucieuse pour vous permettre de ranger tout vos petits objets de valeurs au même endroit et proche de soi ! Ce projet est réalisé dans le cadre de l'option <i>mini-entreprise</i> au Lycée Chevreul Lestonnac à St Didier au Mont d'Or. 😊 <br/><br/>
   - <i>L'essentiel est dans la poche !</i>
 </p>
 
